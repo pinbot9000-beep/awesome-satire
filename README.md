@@ -35,7 +35,6 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [Cracked](https://cracked.com) — Long-running humor and satire site. Originated as a print magazine in 1958, became a major comedy website in the mid-2000s.
 - [Hambry](https://hambry.com) — Independent satirical publication. Non-partisan takes on politics, tech, business, culture, sports, and the daily absurdities of modern life.
 - [Defector](https://defector.com) — Worker-owned sports and culture site. Not pure satire, but the spiritual successor to early Deadspin's sardonic voice.
-- [Roostur](https://roostur.com) — Lifestyle and cultural satire, sharper end of the modern wave.
 - [Funny Or Die](https://funnyordie.com) — Comedy video and written satire. Co-founded by Will Ferrell and Adam McKay in 2007.
 
 ### International
@@ -88,9 +87,6 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [/r/BabylonBee](https://reddit.com/r/BabylonBee) — Babylon Bee headlines and discussion.
 - [/r/ClickHole](https://reddit.com/r/ClickHole) — ClickHole content sharing.
 - [/r/HardDriveMag](https://reddit.com/r/HardDriveMag) — Hard Drive (video game satire) community.
-- [/r/AustralianSatire](https://reddit.com/r/AustralianSatire) — Australian satirical content.
-- [/r/UKSatire](https://reddit.com/r/UKSatire) — UK satirical content.
-- [/r/FakeNewsHumor](https://reddit.com/r/FakeNewsHumor) — General fake news for entertainment.
 
 ## X / Twitter Accounts
 
