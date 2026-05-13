@@ -74,8 +74,6 @@ Contributions welcome. See [contributing.md](contributing.md).
 > This section is being populated. PRs welcome.
 
 - [Hambry](https://t.me/hambry_news) — Hambry's official Telegram channel. Daily satirical headlines and commentary.
-- [The Onion News Feed (unofficial)](https://t.me/theonionfeed) — Unofficial mirror of The Onion's RSS feed.
-- [Babylon Bee News Feed (unofficial)](https://t.me/babylonbeefeed) — Unofficial mirror of Babylon Bee headlines.
 
 *Operators of satire channels: please open a PR to add your channel.*
 
