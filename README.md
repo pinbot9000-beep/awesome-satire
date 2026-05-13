@@ -65,7 +65,7 @@ Contributions welcome. See [contributing.md](contributing.md).
 ## Newsletters
 
 - [The Borowitz Report](https://borowitzreport.substack.com) — Andy Borowitz's political satire newsletter. Formerly hosted at The New Yorker, now on Substack.
-- [Hambry Dispatch](https://hambry.com) — Hambry's twice-weekly satirical roundup. Email-only.
+- [Hambry Dispatch](https://hambry.com/subscribe) — Hambry's twice-weekly satirical roundup. Email-only.
 - [Defector Newsletter](https://defector.com/newsletters) — Subscription newsletter from the worker-owned sports and culture site.
 - [The Audacity by Roxane Gay](https://audacity.substack.com) — Cultural commentary, occasionally satirical, by Roxane Gay.
 
