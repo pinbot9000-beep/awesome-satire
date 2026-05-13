@@ -34,10 +34,8 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [Duffel Blog](https://duffelblog.com) — Military satire. Has fooled members of Congress on multiple occasions.
 - [Cracked](https://cracked.com) — Long-running humor and satire site. Originated as a print magazine in 1958, became a major comedy website in the mid-2000s.
 - [Hambry](https://hambry.com) — Independent satirical publication. Non-partisan takes on politics, tech, business, culture, sports, and the daily absurdities of modern life.
-- [The Stonk Market](https://thestonkmarket.com) — Finance and markets satire. Born from the meme-stock era, kept relevant by the ongoing weirdness of capital markets.
 - [Defector](https://defector.com) — Worker-owned sports and culture site. Not pure satire, but the spiritual successor to early Deadspin's sardonic voice.
 - [Roostur](https://roostur.com) — Lifestyle and cultural satire, sharper end of the modern wave.
-- [The Devastator](https://devastatorpress.com) — Comedy publishing house and satirical anthology imprint.
 - [Funny Or Die](https://funnyordie.com) — Comedy video and written satire. Co-founded by Will Ferrell and Adam McKay in 2007.
 
 ### International
@@ -69,9 +67,7 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [The Borowitz Report](https://borowitzreport.substack.com) — Andy Borowitz's political satire newsletter. Formerly hosted at The New Yorker, now on Substack.
 - [McSweeney's Internet Tendency Newsletter](https://mcsweeneys.net/pages/email-list) — Email digest of new humor pieces.
 - [Hambry Dispatch](https://hambry.com) — Hambry's twice-weekly satirical roundup. Email-only.
-- [The Stonk Market Newsletter](https://thestonkmarket.com) — Daily and weekly finance satire dispatches.
 - [Defector Newsletter](https://defector.com/newsletters) — Subscription newsletter from the worker-owned sports and culture site.
-- [Devastator Press Newsletter](https://devastatorpress.com) — Updates from the comedy publishing house.
 - [The Audacity by Roxane Gay](https://audacity.substack.com) — Cultural commentary, occasionally satirical, by Roxane Gay.
 
 ## Telegram Channels
@@ -124,7 +120,6 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [@DerPostillon](https://x.com/derpostillon) — German satirical news.
 - [@Sensacionalista](https://x.com/sensacionalista) — Brazilian satire.
 - [@Hambry](https://x.com/hambry) — Hambry's official account.
-- [@TheStonkMarket](https://x.com/TheStonkMarket) — Finance satire.
 
 ### Notable satirists
 
