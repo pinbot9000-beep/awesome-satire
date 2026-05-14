@@ -95,13 +95,13 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [@TheOnion](https://x.com/TheOnion) — The Onion's main account. ~11M followers.
 - [@TheBabylonBee](https://x.com/TheBabylonBee) — Babylon Bee.
 - [@Reductress](https://x.com/Reductress) — Reductress.
-- [@TheHardTimes](https://x.com/thehardtimes) — Hard Times music satire.
+- [@REALpunknews](https://x.com/REALpunknews) — Hard Times music satire.
 - [@ClickHole](https://x.com/ClickHole) — ClickHole.
-- [@DuffelBlog](https://x.com/duffel_blog) — Military satire.
+- [@DuffelBlog](https://x.com/DuffelBlog) — Military satire.
 - [@HardDriveMag](https://x.com/HardDriveMag) — Video game satire.
 - [@McSweeneys](https://x.com/mcsweeneys) — McSweeney's Internet Tendency.
 - [@TheBeaverton](https://x.com/TheBeaverton) — Canadian satire.
-- [@WaterfordWhisp](https://x.com/WaterfordWhisp) — Waterford Whispers News.
+- [@WhispersNewsLTD](https://x.com/WhispersNewsLTD) — Waterford Whispers News.
 - [@BetootaAdvocate](https://x.com/BetootaAdvocate) — The Betoota Advocate.
 - [@chaser](https://x.com/chaser) — The Chaser.
 - [@TheShovel](https://x.com/TheShovel) — Australian political satire.
@@ -110,9 +110,9 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [@ThePoke](https://x.com/ThePoke) — UK satire and topical news.
 - [@PrivateEyeNews](https://x.com/PrivateEyeNews) — Private Eye magazine.
 - [@LeGorafi](https://x.com/le_gorafi) — French satirical news.
-- [@DerPostillon](https://x.com/derpostillon) — German satirical news.
+- [@Der_Postillon](https://x.com/Der_Postillon) — German satirical news.
 - [@Sensacionalista](https://x.com/sensacionalista) — Brazilian satire.
-- [@Hambry](https://x.com/hambry) — Hambry's official account.
+- [@hambry_com](https://x.com/hambry_com) — Hambry's official account.
 
 ### Notable satirists
 
