@@ -51,6 +51,7 @@ Contributions welcome. See [contributing.md](contributing.md).
 - [The Betoota Advocate](https://betootaadvocate.com) — Australian satire styled as a local paper from the (real but tiny) town of Betoota, Queensland. Now one of Australia's most influential satirical voices.
 - [The Chaser](https://chaser.com.au) — Australian satirical news and TV. Best known internationally for the APEC motorcade prank.
 - [The Shovel](https://theshovel.com.au) — Australian political satire by James Schloeffel.
+- [VanFLIP](https://vanflip.com/) — Independent news satire that gives bad corporate ideas and petty local disputes the full newsroom treatment.
 - [The Civilian](https://thecivilian.co.nz) — New Zealand satirical news site by Ben Uffindell.
 - [Le Gorafi](https://legorafi.fr) — France's leading satirical news site. Name is an anagram of "Le Figaro."
 - [Nordpresse](https://nordpresse.be) — Belgian French-language satire.
